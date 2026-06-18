@@ -22,3 +22,4 @@ Gold: datos listos para análisis.
 2. ¿Qué categorías venden más?
 
 3. ¿Qué estados tienen mayores demoras?
+..
