@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Objetivo
 
@@ -23,3 +24,6 @@ Gold: datos listos para análisis.
 
 3. ¿Qué estados tienen mayores demoras?
 ..
+=======
+# gestion-datos-cib-erick-pachas
+>>>>>>> 4bbbf194ecdac980dd19c0a86f0306a7b500807f
